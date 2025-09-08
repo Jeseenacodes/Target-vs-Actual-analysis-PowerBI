@@ -1,6 +1,5 @@
-# Target-vs-Actual-analysis-PowerBI
 
-# 📊 Target vs Actual Performance Dashboard (Power BI)
+# Target vs Actual Performance Dashboard (Power BI)
 
 This Power BI dashboard provides a **2-page interactive report** to compare **Actual vs Target Sales** while tracking profitability, growth, and forecasting.  
 
