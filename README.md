@@ -77,12 +77,11 @@ This page dives deeper into **variances, targets, and forecasts** for operationa
 ---
 
 ## Business Insights
-- High-level KPIs for **Target vs Actual** performance.
-- Analyze **profitability and YoY growth** using KPI cards and scatter plots.
-- Visualize **trends and forecasts** to anticipate future sales.
-- Identify **variance by month** to understand seasonal fluctuations.
-- Compare sales across **years, products, and geographies** with slicers.
-
+- Tracked high-level KPIs for Target vs Actual performance.
+- Analyzed profitability and YoY growth using KPI cards and scatter plots.
+- Visualized trends and forecasts to anticipate future sales.
+- Identified monthly variance to understand seasonal fluctuations.
+- Compared sales across years, products, and regions using interactive slicers.
 ---
 
 ## 🛠️ Tools Used
