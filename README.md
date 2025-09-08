@@ -89,7 +89,8 @@ This page dives deeper into **variances, targets, and forecasts** for operationa
 - **Microsoft Power BI Desktop**
 - **Excel / CSV** (Sample dataset)
 
-Dashboard on Power BI Service(https://app.powerbi.com/links/Qpg_bdGZmS?ctid=509eb15f-795b-4782-bd4e-748dc6ed48df&pbi_source=linkShare&bookmarkGuid=7316afe5-b118-4b33-a946-a331d1883fd0) 
+## View Dashboard
+Explore the dashboard on Power BI Service: [Open Dashboard]([https://app.powerbi.com/your-dashboard-link](https://app.powerbi.com/links/Qpg_bdGZmS?ctid=509eb15f-795b-4782-bd4e-748dc6ed48df&pbi_source=linkShare&bookmarkGuid=7316afe5-b118-4b33-a946-a331d1883fd0))
 
 ---
 
